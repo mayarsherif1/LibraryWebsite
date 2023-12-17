@@ -26,19 +26,19 @@ Make sure you have the following installed on your machine:
        node app.js
 
 The application should be accessible at http://localhost:3000.
-Usage
+## Usage
 Access the application through a web browser.
 Register a new account or log in with existing credentials.
 Explore the available books and add them to your reading list.
-Project Structure
+## Project Structure
 app.js: Main entry point of the application.
 views/: Contains EJS templates for rendering views.
 public/: Static files (CSS, images, etc.).
 user.json: JSON file to store user data.
-Dependencies
+## Dependencies
 express: Web framework for Node.js.
 ejs: Embedded JavaScript templates.
 body-parser: Middleware to parse HTTP request bodies.
 fs: Node.js file system module.
-Contributing
+## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
